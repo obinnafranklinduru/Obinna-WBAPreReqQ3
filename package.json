@@ -1,8 +1,8 @@
 {
-  "name": "WBA_prerequisite",
+  "name": "Obinna-WBAPreReqQ4",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/obinnafranklinduru/WBA_prerequisite.git",
+  "repository": "https://github.com/obinnafranklinduru/Obinna-WBAPreReqQ4.git",
   "author": "Obinna Franklin Duru <obinnafranklinduru@gmail.com>",
   "license": "MIT",
   "scripts": {
@@ -17,6 +17,7 @@
     "@solana/web3.js": "^1.87.6",
     "@types/node": "^20.9.0",
     "bs58": "^5.0.0",
+    "prompt-sync": "^4.2.0",
     "typescript": "^5.2.2"
   },
   "devDependencies": {

@@ -15,10 +15,10 @@ To install and set up the project, follow these steps:
 
 ```bash
     # Clone the repository
-    git clone https://github.com/obinnafranklinduru/WBA_prerequisite
+    git clone https://github.com/obinnafranklinduru/Obinna-WBAPreReqQ4
 
     # Navigate to the project directory
-    cd WBA_prerequisite
+    cd Obinna-WBAPreReqQ4
 
     # Install dependencies
     yarn install
