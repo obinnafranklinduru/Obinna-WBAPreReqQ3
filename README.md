@@ -1,6 +1,6 @@
-# WBA Solana Q4 Pre-requisite Coursework
+# WBA Solana Q3 Pre-requisite Coursework
 
-Repository for WBA Solana Q4 Prerequisite CourseWork, featuring streamlined code for tasks such as key generation, airdrop, transfer, and enrollment.
+Repository for WBA Solana Q3 Prerequisite CourseWork, featuring streamlined code for tasks such as key generation, airdrop, transfer, and enrollment.
 
 ## Prerequisites
 
